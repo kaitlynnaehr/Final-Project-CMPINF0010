@@ -9,7 +9,7 @@ Kaitlyn Naehr - ken71@pitt.edu
 
 Student Enrollment(Kaitlyn)-
 -https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment/resource/eb1f8714-e0eb-4614-acfe-dfe0ebab942f
-- I looked at student enrollment data to see which nieghborhood in Pittsburgh would be objectively best for a kid looking to gather their education long term.
+-I looked at student enrollment data to see which nieghborhood in Pittsburgh would be objectively best for a kid looking to gather their education long term.
 
 Pieces of Public Art(Corey)-
 -https://data.wprdc.org/dataset/city-of-pittsburgh-public-art
