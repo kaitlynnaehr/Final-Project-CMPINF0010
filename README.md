@@ -3,9 +3,9 @@ This is our final project describing the best town in Pittsburgh for a kid to gr
 
 TEAM 10
 
-Kaitlyn Naehr - ken71@pitt.edu
-Corey Medve- cjm235@pitt.edu
-Katelyn Donaty- kcd39@pitt.edu
+-Kaitlyn Naehr - ken71@pitt.edu
+-Corey Medve- cjm235@pitt.edu
+-Katelyn Donaty- kcd39@pitt.edu
 
 
 
