@@ -16,3 +16,8 @@ Student Enrollment(Kaitlyn)-
 Pieces of Public Art(Corey)-
 -https://data.wprdc.org/dataset/city-of-pittsburgh-public-art
 -This dataset shows public art in pittsburgh and was used in our project to see which neighborhood has the best art collection.
+
+
+# Abstract
+------------------------------------------------------
+For our metric we wanted to determine what would be the best town in Pittsburgh for a kid to grow up in. To determine this, we chose 3 metrics we each felt would capture this. We chose the number of parks, the number of pieces of art, and the school enrollment numbers. After analyzing all of our datasets, we determined the Central Business District to be the best neighborhood. The CBD was not the best in every category, however, our final graph shows an abundant advantage over any other neighborhood based on the final metric. The Central Business Distrcit is known for its commerical nature and many features in Pittburgh including the arenas. Because of its performance, we believe the CBD would be a great environment to grow up in as a child.
